@@ -70,20 +70,6 @@ Append data
 Read content
 
 Delete files
-(using System.IO)
-
-🏗️ Project Structure
-SimpleTextEditor/
-│
-├── interfaces/
-│   └── ITextEditor.cs
-│
-├── Services/
-│   └── TextEditorService.cs
-│
-├── Program.cs
-│
-└── README.md
 
 ▶️ How It Works
 
