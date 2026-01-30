@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "first-project.csproj",
+        "Action": "Start",
+        "DebugTarget": "first-project"
+      },
+      {
+        "Path": "..\\FileHandling\\FileHandling.csproj",
+        "Action": "Start",
+        "DebugTarget": "FileHandling"
+      }
+    ]
+  }
+]

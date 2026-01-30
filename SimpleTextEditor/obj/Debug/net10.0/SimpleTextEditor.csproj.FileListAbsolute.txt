@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\bin\Debug\net10.0\SimpleTextEditor.exe
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\bin\Debug\net10.0\SimpleTextEditor.deps.json
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\bin\Debug\net10.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\bin\Debug\net10.0\SimpleTextEditor.dll
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\bin\Debug\net10.0\SimpleTextEditor.pdb
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\SimpleTextEditor.dll
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\refint\SimpleTextEditor.dll
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\SimpleTextEditor.pdb
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\SimpleTextEditor.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\C#\SimpleTextEditor\obj\Debug\net10.0\ref\SimpleTextEditor.dll

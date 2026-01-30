@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\bin\Debug\net10.0\FileHandling.exe
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\bin\Debug\net10.0\FileHandling.deps.json
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\bin\Debug\net10.0\FileHandling.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\bin\Debug\net10.0\FileHandling.dll
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\bin\Debug\net10.0\FileHandling.pdb
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\FileHandling.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\FileHandling.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\FileHandling.dll
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\refint\FileHandling.dll
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\FileHandling.pdb
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\FileHandling.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\C#\FileHandling\obj\Debug\net10.0\ref\FileHandling.dll

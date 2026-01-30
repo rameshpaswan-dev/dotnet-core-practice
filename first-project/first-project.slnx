@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../FileHandling/FileHandling.csproj" Id="437053c8-6eb5-475b-854d-171332e46b99" />
+  <Project Path="../SimpleTextEditor/SimpleTextEditor.csproj" Id="e6ad9519-36f0-41a7-9fae-c936375d6e63" />
+  <Project Path="first-project.csproj" />
+</Solution>

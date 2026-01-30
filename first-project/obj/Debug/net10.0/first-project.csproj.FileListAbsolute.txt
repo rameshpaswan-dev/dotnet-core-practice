@@ -1,0 +1,14 @@
+C:\Users\dell\OneDrive\Desktop\C#\first-project\bin\Debug\net10.0\first-project.exe
+C:\Users\dell\OneDrive\Desktop\C#\first-project\bin\Debug\net10.0\first-project.deps.json
+C:\Users\dell\OneDrive\Desktop\C#\first-project\bin\Debug\net10.0\first-project.runtimeconfig.json
+C:\Users\dell\OneDrive\Desktop\C#\first-project\bin\Debug\net10.0\first-project.dll
+C:\Users\dell\OneDrive\Desktop\C#\first-project\bin\Debug\net10.0\first-project.pdb
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\first-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\first-project.AssemblyInfoInputs.cache
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\first-project.AssemblyInfo.cs
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\first-project.csproj.CoreCompileInputs.cache
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\first-project.dll
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\refint\first-project.dll
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\first-project.pdb
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\first-project.genruntimeconfig.cache
+C:\Users\dell\OneDrive\Desktop\C#\first-project\obj\Debug\net10.0\ref\first-project.dll
